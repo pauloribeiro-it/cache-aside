@@ -15,3 +15,8 @@ There are some endpoint available in the application, basically a get and put en
    --data '{
    "description":"Computers"
    }'`
+
+### References
+[Spring Boot Caching with Redis](https://medium.com/simform-engineering/spring-boot-caching-with-redis-1a36f719309f)
+
+[Spring Boot Cache com Redis](https://willian-kaminski.medium.com/spring-boot-cache-com-redis-2430aec75d6)
